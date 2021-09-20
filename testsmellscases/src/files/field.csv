@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/Users/andersonnogueira/git/testsmellscases/testsmellscases/src/test/java/br/ufba/aries/testsmellscases/ConditionalVerificationLogicTest.java,br.ufba.aries.testsmellscases.ConditionalVerificationLogicTest,testCVLT/0,expectedCalgaryToVan,2
+/Users/andersonnogueira/git/testsmellscases/testsmellscases/src/test/java/br/ufba/aries/testsmellscases/ConditionalVerificationLogicTest.java,br.ufba.aries.testsmellscases.ConditionalVerificationLogicTest,testCVLT/0,flightsFromCalgary,1
+/Users/andersonnogueira/git/testsmellscases/testsmellscases/src/test/java/br/ufba/aries/testsmellscases/ComplexTeardownTest.java,br.ufba.aries.testsmellscases.ComplexTeardownTest,testGetFlightsByOrigin_NoInboundFlight_SMRTD/0,facade,4
